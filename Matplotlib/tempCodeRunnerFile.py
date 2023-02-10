@@ -1,0 +1,5 @@
+plt.xlabel("time")
+# plt.ylabel("work")
+# plt.plot(a,b,marker='o',color='g',markersize=10)
+# plt.title("Time/work abdo")
+# plt.show()
